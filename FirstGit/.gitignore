@@ -1,0 +1,6 @@
+# ignore all bin directories
+# matches "gen" in any subfolder
+gen/
+
+# matches "bin" in any subfolder
+bin/
